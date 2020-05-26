@@ -4,7 +4,7 @@ This project implements a Calculator for Android devices with all basic mathemat
 
 ## How to run
 
-  - Clone this repo : github.com/suma2001/Flutter-Projects/tree/master/Basic_Calculator
+  - Clone it : github.com/suma2001/Flutter-Projects/tree/master/Basic_Calculator
   - Open the project in Android Studio and run the lib/main.dart file.
   
 ## Screenshot

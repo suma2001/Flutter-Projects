@@ -9,4 +9,4 @@ This project implements a Calculator for Android devices with all basic mathemat
   
 ## Screenshot
 
-![alt_text](https://github.com/suma2001/Flutter-Projects/blob/master/Basic_Calculator/Screenshots/calculator.png)
+![alt_text](https://github.com/suma2001/Flutter-Projects/blob/master/Basic_Calculator/Screenshots/calculator.png | width=48)

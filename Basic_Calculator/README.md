@@ -1,16 +1,12 @@
-# sampleapp
+## Basic Calculator
 
-A new Flutter application.
+This project implements a Calculator for Android devices with all basic mathematical operations such as addition, subtraction, Multiplication, Division, etc. To compute the value of the expression, math expression Dart Package is used.
 
-## Getting Started
+## How to run
 
-This project is a starting point for a Flutter application.
+  - Clone this repo : github.com/suma2001/Flutter-Projects/tree/master/Basic_Calculator
+  - Open the project in Android Studio and run the lib/main.dart file.
+  
+## Screenshot
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt_text](https://github.com/suma2001/Flutter-Projects/blob/master/Basic_Calculator/Screenshots/calculator.png)

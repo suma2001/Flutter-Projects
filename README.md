@@ -4,3 +4,4 @@ This includes all the basic applications developed using Flutter for Android dev
 The applications include : 
   - Basic calculator
   - Tic Tac Toe
+  - Weather App Using open Weather Map API

@@ -1,6 +1,7 @@
 ## Weather App
 
-A weather app which gives the daily weather conditions along with 5-day forecast.
+This is a background-changing weather-application made with flutter and uses OpenWeatherMap API to get weather data. Shows temperature, weather descriptions like rain, clouds, storm, mist, etc. and Wind Speed, Humidity and Pressure.
+
 ### Features - 
 1.) Home Page
   - Temperature with location
